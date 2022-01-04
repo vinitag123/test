@@ -1,1 +1,3 @@
-Hi This is a session from EDureka
+Hi this is a session from EDureka
+
+Adding a new line
